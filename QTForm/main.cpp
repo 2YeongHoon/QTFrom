@@ -1,7 +1,7 @@
 #include "QTForm.h"
 #include <QtWidgets/QApplication>
 
-// 메인 김막순
+// kim maksun
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
